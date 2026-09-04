@@ -1,6 +1,6 @@
 # Diatom Carbon Biomass Model
 
-This repository contains the codes and files needed for the training, validating, and running inference with the diatom carbon biomass model developed by Chase et al. (submitted).
+This repository contains the codes and files needed for the training, validating, and running inference with the diatom carbon biomass model developed by Chase et al. (preprint).
 
 ## Contents
 
