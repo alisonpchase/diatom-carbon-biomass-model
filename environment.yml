@@ -1,0 +1,19 @@
+name: diatom-model-release
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy>=1.26,<2
+  - pandas>=2.2,<3
+  - scikit-learn>=1.4,<2
+  - matplotlib>=3.8,<4
+  - seaborn>=0.13,<1
+  - cartopy>=0.22,<1
+  - joblib>=1.4,<2
+  - onnx>=1.16,<2
+  - onnxruntime>=1.18,<2
+  - skl2onnx>=1.17,<2
+  - pip
+  - pip:
+      - forestci>=0.7,<1
